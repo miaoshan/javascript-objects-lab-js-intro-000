@@ -1,5 +1,5 @@
 
-
+var recipt={};
 
 
 function updateObjectWithKeyAndValue(object, key, value){
